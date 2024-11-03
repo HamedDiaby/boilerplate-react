@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Avenir_Next_Light";
+  src: local("Avenir_Next_Light"),
+   url("./assets/fonts/AvenirNextCyr-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Avenir_Next_Regular";
+  src: local("Avenir_Next_Regular"),
+   url("./assets/fonts/AvenirNextCyr-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Avenir_Next_Medium";
+  src: local("Avenir_Next_Medium"),
+   url("./assets/fonts/AvenirNextCyr-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Avenir_Next_Demi";
+  src: local("Avenir_Next_Demi"),
+   url("./assets/fonts/AvenirNextCyr-Demi.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Avenir_Next_Bold";
+  src: local("Avenir_Next_Bold"),
+   url("./assets/fonts/AvenirNextCyr-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Avenir_Next_Heavy";
+  src: local("Avenir_Next_Heavy"),
+   url("./assets/fonts/AvenirNextCyr-Heavy.ttf") format("truetype");
+}
